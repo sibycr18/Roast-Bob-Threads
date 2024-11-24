@@ -1,0 +1,8 @@
+.env
+__pychache__/
+*.pyc
+*.pyo
+mentions.json
+old/
+pg.py
+ratecheck.py
